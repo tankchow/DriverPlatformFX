@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane fx:id="acpMain" prefHeight="488.0" prefWidth="665.0"
+	xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="com.gwi.driver.MainController">
+	<children>
+		<!-- onMouseClicked="#IDCardOnMouseClicked" -->
+		<Button fx:id="btnIDCard" defaultButton="true" layoutX="57.0"
+			layoutY="91.0" mnemonicParsing="false" prefHeight="108.0" prefWidth="155.0"
+			text="二代身份证" textAlignment="JUSTIFY" AnchorPane.RightAnchor="60" />
+	</children>
+</AnchorPane>

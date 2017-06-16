@@ -1,0 +1,20 @@
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button {
+    -fx-background-color:lightblue ;
+}
+
+.font-large {
+    -fx-font-size: 16pt;
+}
+/* 
+.root {
+    -fx-font-family: "Î¢ÈíÑÅºÚ";
+    -fx-font-size: 16px;
+   
+    -fx-background-size: stretch stretch;
+    -fx-background-position: center center;
+    -fx-background-color:black;
+}
+
+*/
